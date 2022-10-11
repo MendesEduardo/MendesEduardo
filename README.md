@@ -11,3 +11,10 @@
   <img align="center" alt="ME_C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="ME_Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 </div>
+
+
+ 
+  ![Snake animation](https://github.com/mendeseduardo/mendeseduardo/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
