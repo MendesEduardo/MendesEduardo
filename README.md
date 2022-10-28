@@ -9,6 +9,7 @@
   <img align="center" alt="ME_Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="ME_React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
    <img align="center" alt="ME_C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+   <img align="center" alt="ME_Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
 </div>
 
 <div>
